@@ -99,3 +99,4 @@ public class EntryChecker extends AppCompatActivity
         return true;
     }
 }
+
